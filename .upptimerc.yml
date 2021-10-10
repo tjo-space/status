@@ -19,13 +19,13 @@ status-website:
   cname: status.tjo.space
   logoUrl: https://avatars.githubusercontent.com/u/1910649
   name: status.tjo.space
-  introTitle: "**status.tjo.space**, status of all tjo.space services."
-  introMessage: You can report any issues at https://github.com/$OWNER/$REPO/issues
+  introTitle: "**status.tjo.space**, here you can see the status of all tjo.space services."
+  introMessage: You can report any issues [here](https://github.com/tjo-space/status/issues).
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://tjo.space
+    - title: Status
+      href: /
     - title: Report Issues
       href: https://github.com/$OWNER/$REPO/issues
 
