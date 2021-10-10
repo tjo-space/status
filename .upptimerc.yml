@@ -11,6 +11,10 @@ sites:
     url: https://chat.tjo.space
   - name: id.tjo.space
     url: https://id.tjo.space
+  - name: code.tjo.space
+    url: https://code.tjo.space
+  - name: tjo.space
+    url: https://tjo.space
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
