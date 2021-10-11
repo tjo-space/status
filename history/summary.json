@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/media.tjo.space",
     "slug": "media-tjo-space",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.03%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 622,
     "timeDay": 425,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2021-10-11": 33
+      "2021-10-11": 39
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/chat.tjo.space",
     "slug": "chat-tjo-space",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.08%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 421,
     "timeDay": 395,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2021-10-11": 32
+      "2021-10-11": 38
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://id.tjo.space",
     "icon": "https://favicons.githubusercontent.com/id.tjo.space",
     "slug": "id-tjo-space",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
-    "time": 434,
-    "timeDay": 342,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
+    "time": 427,
+    "timeDay": 364,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
     "dailyMinutesDown": {
-      "2021-10-11": 31
+      "2021-10-11": 37
     }
   },
   {
@@ -105,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/tjo.space",
     "slug": "tjo-space",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "97.89%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
     "time": 409,
     "timeDay": 335,
     "timeWeek": 409,
