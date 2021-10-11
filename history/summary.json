@@ -4,107 +4,119 @@
     "url": "https://media.tjo.space",
     "icon": "https://favicons.githubusercontent.com/media.tjo.space",
     "slug": "media-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 622,
-    "timeDay": 622,
+    "timeDay": 425,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 3
+    }
   },
   {
     "name": "cloud.tjo.space",
     "url": "https://cloud.tjo.space",
     "icon": "https://favicons.githubusercontent.com/cloud.tjo.space",
     "slug": "cloud-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 777,
-    "timeDay": 777,
+    "timeDay": 619,
     "timeWeek": 777,
     "timeMonth": 777,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 2
+    }
   },
   {
     "name": "chat.tjo.space",
     "url": "https://chat.tjo.space",
     "icon": "https://favicons.githubusercontent.com/chat.tjo.space",
     "slug": "chat-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 421,
-    "timeDay": 421,
+    "timeDay": 395,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 2
+    }
   },
   {
     "name": "id.tjo.space",
     "url": "https://id.tjo.space",
     "icon": "https://favicons.githubusercontent.com/id.tjo.space",
     "slug": "id-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 434,
-    "timeDay": 434,
+    "timeDay": 342,
     "timeWeek": 434,
     "timeMonth": 434,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 1
+    }
   },
   {
     "name": "code.tjo.space",
     "url": "https://code.tjo.space",
     "icon": "https://favicons.githubusercontent.com/code.tjo.space",
     "slug": "code-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 644,
-    "timeDay": 644,
+    "timeDay": 431,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 1
+    }
   },
   {
     "name": "tjo.space",
     "url": "https://tjo.space",
     "icon": "https://favicons.githubusercontent.com/tjo.space",
     "slug": "tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 423,
+    "timeDay": 333,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 0
+    }
   }
 ]
