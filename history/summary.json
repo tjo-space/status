@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/media.tjo.space",
     "slug": "media-tjo-space",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "98.33%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 622,
     "timeDay": 425,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2021-10-11": 3
+      "2021-10-11": 33
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cloud.tjo.space",
     "icon": "https://favicons.githubusercontent.com/cloud.tjo.space",
     "slug": "cloud-tjo-space",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 777,
-    "timeDay": 619,
-    "timeWeek": 777,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "98.36%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
+    "time": 2143,
+    "timeDay": 5480,
+    "timeWeek": 2143,
+    "timeMonth": 2143,
+    "timeYear": 2143,
     "dailyMinutesDown": {
-      "2021-10-11": 2
+      "2021-10-11": 32
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/chat.tjo.space",
     "slug": "chat-tjo-space",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "98.38%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 421,
     "timeDay": 395,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2021-10-11": 2
+      "2021-10-11": 32
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/id.tjo.space",
     "slug": "id-tjo-space",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "98.41%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 434,
     "timeDay": 342,
     "timeWeek": 434,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2021-10-11": 1
+      "2021-10-11": 31
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://code.tjo.space",
     "icon": "https://favicons.githubusercontent.com/code.tjo.space",
     "slug": "code-tjo-space",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 644,
-    "timeDay": 431,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "98.43%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
+    "time": 621,
+    "timeDay": 466,
+    "timeWeek": 621,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2021-10-11": 1
+      "2021-10-11": 31
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://tjo.space",
     "icon": "https://favicons.githubusercontent.com/tjo.space",
     "slug": "tjo-space",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 333,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 409,
+    "timeDay": 335,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 30
     }
   }
 ]
