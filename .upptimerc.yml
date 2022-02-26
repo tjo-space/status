@@ -12,8 +12,10 @@ sites:
     url: https://id.tjo.space
   - name: code.tjo.space
     url: https://code.tjo.space
-  - name: tjo.space
-    url: https://tjo.space
+  - name: storage.tjo.space
+    url: https://console.storage.tjo.space
+  - name: home.tjo.space
+    url: https://home.tjo.space
 
 status-website:
   cname: status.tjo.space
@@ -23,7 +25,7 @@ status-website:
   introMessage: You can report any issues [here](https://github.com/tjo-space/status/issues).
   navbar:
     - title: Home
-      href: https://tjo.space
+      href: https://home.tjo.space
     - title: Status
       href: /
     - title: Report Issues
