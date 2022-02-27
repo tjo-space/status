@@ -25,9 +25,9 @@
     "url": "https://cloud.tjo.space",
     "icon": "https://favicons.githubusercontent.com/cloud.tjo.space",
     "slug": "cloud-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.52%",
@@ -37,6 +37,7 @@
     "timeMonth": 1544,
     "timeYear": 1724,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-02-02": 56,
       "2022-02-01": 47,
       "2021-12-27": 17,
@@ -97,9 +98,9 @@
     "url": "https://code.tjo.space",
     "icon": "https://favicons.githubusercontent.com/code.tjo.space",
     "slug": "code-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.84%",
@@ -109,6 +110,7 @@
     "timeMonth": 772,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-02-02": 56,
       "2022-02-01": 47,
       "2021-12-27": 17,
@@ -122,37 +124,39 @@
     "url": "https://console.storage.tjo.space",
     "icon": "https://favicons.githubusercontent.com/console.storage.tjo.space",
     "slug": "storage-tjo-space",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 653,
     "timeDay": 653,
     "timeWeek": 653,
     "timeMonth": 653,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "home.tjo.space",
     "url": "https://home.tjo.space",
     "icon": "https://favicons.githubusercontent.com/home.tjo.space",
     "slug": "home-tjo-space",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 768,
     "timeDay": 768,
     "timeWeek": 768,
     "timeMonth": 768,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2022-02-27": 9
+      "2022-02-27": 0
     }
   }
 ]
