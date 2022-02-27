@@ -140,19 +140,19 @@
     "url": "https://home.tjo.space",
     "icon": "https://favicons.githubusercontent.com/home.tjo.space",
     "slug": "home-tjo-space",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 758,
-    "timeDay": 758,
-    "timeWeek": 758,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2022-02-27": 0
+      "2022-02-27": 9
     }
   }
 ]
