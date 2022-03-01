@@ -4,9 +4,9 @@
     "url": "https://media.tjo.space",
     "icon": "https://favicons.githubusercontent.com/media.tjo.space",
     "slug": "media-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 653,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2021-11-22": 332,
       "2021-10-11": 50
     }
@@ -54,9 +55,9 @@
     "url": "https://chat.tjo.space",
     "icon": "https://favicons.githubusercontent.com/chat.tjo.space",
     "slug": "chat-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -66,6 +67,7 @@
     "timeMonth": 524,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2021-11-22": 332,
       "2021-11-05": 15,
       "2021-10-11": 49
@@ -76,9 +78,9 @@
     "url": "https://id.tjo.space",
     "icon": "https://favicons.githubusercontent.com/id.tjo.space",
     "slug": "id-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -88,6 +90,7 @@
     "timeMonth": 510,
     "timeYear": 485,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2021-11-22": 27,
       "2021-10-11": 37
     }
