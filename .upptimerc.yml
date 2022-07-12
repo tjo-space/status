@@ -16,6 +16,18 @@ sites:
     url: https://console.storage.tjo.space
   - name: home.tjo.space
     url: https://home.tjo.space
+  - name: registry.tjo.space
+    url: https://registry.tjo.space
+  - name: ci.tjo.space
+    url: https://ci.tjo.space
+  - name: mail.tjo.space SMTP
+    check: "tcp-ping"
+    url: mail.tjo.space
+    port: 465
+  - name: mail.tjo.space SMTP
+    check: "tcp-ping"
+    url: mail.tjo.space IMAP
+    port: 993
 
 status-website:
   cname: status.tjo.space
