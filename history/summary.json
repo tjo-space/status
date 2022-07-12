@@ -233,18 +233,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-tjo-space-smtp",
     "status": "down",
-    "uptime": "15.53%",
-    "uptimeDay": "15.53%",
-    "uptimeWeek": "15.53%",
-    "uptimeMonth": "15.53%",
-    "uptimeYear": "15.53%",
+    "uptime": "7.71%",
+    "uptimeDay": "7.71%",
+    "uptimeWeek": "7.71%",
+    "uptimeMonth": "7.71%",
+    "uptimeYear": "7.71%",
     "time": 176,
     "timeDay": 176,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-07-12": 0
+      "2022-07-12": 1
     }
   },
   {
@@ -253,18 +253,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-tjo-space-smtp",
     "status": "down",
-    "uptime": "14.42%",
-    "uptimeDay": "14.42%",
-    "uptimeWeek": "14.42%",
-    "uptimeMonth": "14.42%",
-    "uptimeYear": "14.42%",
+    "uptime": "7.23%",
+    "uptimeDay": "7.23%",
+    "uptimeWeek": "7.23%",
+    "uptimeMonth": "7.23%",
+    "uptimeYear": "7.23%",
     "time": 176,
     "timeDay": 176,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-07-12": 0
+      "2022-07-12": 1
     }
   }
 ]
