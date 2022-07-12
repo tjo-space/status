@@ -24,9 +24,9 @@ sites:
     check: "tcp-ping"
     url: mail.tjo.space
     port: 465
-  - name: mail.tjo.space SMTP
+  - name: mail.tjo.space IMAP
     check: "tcp-ping"
-    url: mail.tjo.space IMAP
+    url: mail.tjo.space
     port: 993
 
 status-website:
