@@ -12,12 +12,8 @@ sites:
     url: https://id.tjo.space
   - name: code.tjo.space
     url: https://code.tjo.space
-  - name: storage.tjo.space
-    url: https://console.storage.tjo.space
   - name: home.tjo.space
     url: https://home.tjo.space
-  - name: registry.tjo.space
-    url: https://registry.tjo.space
   - name: ci.tjo.space
     url: https://ci.tjo.space
   - name: mail.tjo.space SMTP
