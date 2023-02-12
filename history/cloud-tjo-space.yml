@@ -1,7 +1,7 @@
 url: https://cloud.tjo.space
-status: up
-code: 200
-responseTime: 851
-lastUpdated: 2023-02-12T12:19:17.554Z
+status: down
+code: 502
+responseTime: 590
+lastUpdated: 2023-02-12T12:47:31.354Z
 startTime: Sun Oct 10 2021 12:00:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
