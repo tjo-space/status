@@ -14,8 +14,6 @@ sites:
     url: https://code.tjo.space
   - name: home.tjo.space
     url: https://home.tjo.space
-  - name: ci.tjo.space
-    url: https://ci.tjo.space
   - name: mail.tjo.space SMTP
     check: "tcp-ping"
     url: mail.tjo.space
