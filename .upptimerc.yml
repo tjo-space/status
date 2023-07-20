@@ -5,7 +5,7 @@ sites:
   - name: media.tjo.space
     url: https://media.tjo.space
   - name: cloud.tjo.space
-    url: https://cloud.tjo.space
+    url: https://cloud.tjo.spac/status.php
   - name: chat.tjo.space
     url: https://chat.tjo.space
   - name: id.tjo.space
