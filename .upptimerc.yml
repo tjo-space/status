@@ -12,8 +12,10 @@ sites:
     url: https://id.tjo.space
   - name: code.tjo.space
     url: https://code.tjo.space
-  - name: home.tjo.space
-    url: https://home.tjo.space
+  - name: rss.tjo.space
+    url: https://rss.tjo.space
+  - name: vault.tjo.space
+    url: https://vault.tjo.space
   - name: mail.tjo.space SMTP
     check: "tcp-ping"
     url: mail.tjo.space
@@ -31,7 +33,7 @@ status-website:
   introMessage: You can report any issues [here](https://github.com/tjo-space/status/issues).
   navbar:
     - title: Home
-      href: https://home.tjo.space
+      href: https://id.tjo.space
     - title: Status
       href: /
     - title: Report Issues
