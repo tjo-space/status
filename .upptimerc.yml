@@ -2,6 +2,14 @@ owner: tjo-space
 repo: status
 
 sites:
+  - name: tjo.space
+    url: https://tjo.space
+  - name: search.tjo.space
+    url: https://search.tjo.space
+  - name: yt.tjo.space
+    url: https://yt.tjo.space/feed/trending
+  - name: send.tjo.space
+    url: https://send.tjo.space
   - name: media.tjo.space
     url: https://media.tjo.space
   - name: cloud.tjo.space
@@ -27,17 +35,18 @@ sites:
 
 status-website:
   cname: status.tjo.space
-  logoUrl: https://avatars.githubusercontent.com/u/1910649
+  logoUrl: https://tjo.space/img/icon.svg
+  faviconSvg: https://tjo.space/img/icon.svg
   name: status.tjo.space
   introTitle: "**status.tjo.space**, here you can see the status of all tjo.space services."
-  introMessage: You can report any issues [here](https://github.com/tjo-space/status/issues).
+  introMessage: |
+    You can report any issues by sending an email to hostmaster@tjo.space or by
+    sending a message in #hello:tjo.space matrix room.
   navbar:
     - title: Home
-      href: https://id.tjo.space
+      href: https://tjo.space
     - title: Status
       href: /
-    - title: Report Issues
-      href: https://github.com/$OWNER/$REPO/issues
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
