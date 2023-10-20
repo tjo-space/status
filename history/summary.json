@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tjo.space.ico",
     "slug": "tjo-space",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -40,18 +40,20 @@
     "url": "https://yt.tjo.space/feed/trending",
     "icon": "https://icons.duckduckgo.com/ip3/yt.tjo.space.ico",
     "slug": "yt-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1184,
-    "timeDay": 1363,
-    "timeWeek": 1185,
-    "timeMonth": 1200,
-    "timeYear": 1184,
-    "dailyMinutesDown": {}
+    "time": 1168,
+    "timeDay": 959,
+    "timeWeek": 1106,
+    "timeMonth": 1179,
+    "timeYear": 1168,
+    "dailyMinutesDown": {
+      "2023-10-20": 0
+    }
   },
   {
     "name": "send.tjo.space",
