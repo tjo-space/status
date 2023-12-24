@@ -4,27 +4,29 @@
     "url": "https://tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/tjo.space.ico",
     "slug": "tjo-space",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
+    "time": 619,
     "timeDay": 762,
     "timeWeek": 828,
     "timeMonth": 827,
     "timeYear": 849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 1
+    }
   },
   {
     "name": "search.tjo.space",
     "url": "https://search.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/search.tjo.space.ico",
     "slug": "search-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 485,
     "timeMonth": 526,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   },
   {
     "name": "yt.tjo.space",
     "url": "https://yt.tjo.space/feed/trending",
     "icon": "https://icons.duckduckgo.com/ip3/yt.tjo.space.ico",
     "slug": "yt-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -52,6 +56,7 @@
     "timeMonth": 1049,
     "timeYear": 1128,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-07": 30,
       "2023-10-20": 29
     }
@@ -61,9 +66,9 @@
     "url": "https://send.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/send.tjo.space.ico",
     "slug": "send-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +77,9 @@
     "timeWeek": 508,
     "timeMonth": 520,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   },
   {
     "name": "media.tjo.space",
@@ -159,9 +166,9 @@
     "url": "https://chat.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/chat.tjo.space.ico",
     "slug": "chat-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
@@ -171,6 +178,7 @@
     "timeMonth": 473,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-06-28": 1119,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -280,11 +288,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.tjo.space.ico",
     "slug": "vault-tjo-space",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 599,
     "timeDay": 475,
     "timeWeek": 474,
