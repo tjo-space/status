@@ -1,7 +1,7 @@
 url: https://cloud.tjo.space/status.php
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2024-06-09T23:16:40.558Z
+status: down
+code: 502
+responseTime: 1105
+lastUpdated: 2024-06-10T18:30:01.676Z
 startTime: 2021-10-10T12:00:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
