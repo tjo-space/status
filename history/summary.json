@@ -707,18 +707,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.tjo.cloud.ico",
     "slug": "monitor-tjo-cloud",
     "status": "down",
-    "uptime": "5.99%",
-    "uptimeDay": "5.99%",
-    "uptimeWeek": "5.99%",
-    "uptimeMonth": "5.99%",
-    "uptimeYear": "5.99%",
+    "uptime": "3.05%",
+    "uptimeDay": "3.05%",
+    "uptimeWeek": "3.05%",
+    "uptimeMonth": "3.05%",
+    "uptimeYear": "3.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 1
+      "2025-01-07": 2
     }
   },
   {
