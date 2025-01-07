@@ -44,7 +44,7 @@ sites:
     url: http://any.ingress.tjo.cloud:1337/healthz
   - name: monitor.tjo.cloud
     url: https://monitor.tjo.cloud
-    maxRedirects: 4
+    maxRedirects: 10
   - name: prometheus.monitor.tjo.cloud
     url: https://prometheus.monitor.tjo.cloud
   - name: loki.monitor.tjo.cloud
