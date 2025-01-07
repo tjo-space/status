@@ -2,6 +2,7 @@ owner: tjo-space
 repo: status
 
 sites:
+  # TJO.SPACE
   - name: tjo.space
     url: https://tjo.space
   - name: search.tjo.space
@@ -16,6 +17,12 @@ sites:
     url: https://cloud.tjo.space/status.php
   - name: chat.tjo.space
     url: https://chat.tjo.space
+  - name: matrix.chat.tjo.space
+    url: https://matrix.chat.tjo.space/health
+  - name: webhook.chat.tjo.space
+    url: https://webhook.chat.tjo.space
+    expectedStatusCodes:
+      - 404 # Not Found
   - name: id.tjo.space
     url: https://id.tjo.space
   - name: code.tjo.space
@@ -32,6 +39,27 @@ sites:
     check: "tcp-ping"
     url: mail.tjo.space
     port: 993
+  # TJO.CLOUD
+  - name: any.ingress.tjo.cloud
+    url: http://any.ingress.tjo.cloud:1337/healthz
+  - name: monitor.tjo.cloud
+    url: https://monitor.tjo.cloud
+  - name: prometheus.monitor.tjo.cloud
+    url: https://prometheus.monitor.tjo.cloud
+  - name: loki.monitor.tjo.cloud
+    url: https://loki.monitor.tjo.cloud
+  - name: http.otel.monitor.tjo.cloud
+    url: https://http.otel.monitor.tjo.cloud
+    expectedStatusCodes:
+      - 401 # Unauthorized
+  - name: grpc.otel.monitor.tjo.cloud
+    url: https://grpc.otel.monitor.tjo.cloud
+    expectedStatusCodes:
+      - 415 # Invalid GRCP request
+  - name: proxmox.tjo.cloud
+    url: https://proxmox.tjo.cloud
+  - name: postgresql.tjo.cloud
+    url: https://postgresql.tjo.cloud
 
 status-website:
   cname: status.tjo.space
