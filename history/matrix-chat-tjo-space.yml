@@ -1,7 +1,7 @@
 url: https://matrix.chat.tjo.space/health
-status: down
-code: 404
-responseTime: 519
-lastUpdated: 2025-01-21T19:33:46.299Z
+status: up
+code: 200
+responseTime: 483
+lastUpdated: 2025-01-21T19:39:58.284Z
 startTime: 2025-01-07T17:37:57.425Z
 generator: Upptime <https://github.com/upptime/upptime>
