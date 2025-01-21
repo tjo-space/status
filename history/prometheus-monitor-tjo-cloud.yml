@@ -1,7 +1,7 @@
 url: https://prometheus.monitor.tjo.cloud
-status: down
-code: 404
-responseTime: 519
-lastUpdated: 2025-01-21T19:33:57.395Z
+status: up
+code: 200
+responseTime: 1209
+lastUpdated: 2025-01-21T19:40:11.546Z
 startTime: 2025-01-07T17:38:12.863Z
 generator: Upptime <https://github.com/upptime/upptime>
