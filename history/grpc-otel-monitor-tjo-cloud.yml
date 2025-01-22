@@ -1,7 +1,7 @@
 url: https://grpc.otel.monitor.tjo.cloud
-status: up
-code: 415
-responseTime: 564
-lastUpdated: 2025-01-22T04:32:54.049Z
+status: down
+code: 429
+responseTime: 525
+lastUpdated: 2025-01-22T04:42:29.975Z
 startTime: 2025-01-07T17:38:17.980Z
 generator: Upptime <https://github.com/upptime/upptime>
