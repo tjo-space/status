@@ -702,18 +702,20 @@
     "url": "https://prometheus.monitor.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.monitor.tjo.cloud.ico",
     "slug": "prometheus-monitor-tjo-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1226,
     "timeDay": 1553,
     "timeWeek": 1168,
     "timeMonth": 1226,
     "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 2
+    }
   },
   {
     "name": "loki.monitor.tjo.cloud",
@@ -757,13 +759,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/grpc.otel.monitor.tjo.cloud.ico",
     "slug": "grpc-otel-monitor-tjo-cloud",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "66.79%",
     "uptimeWeek": "87.74%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "94.77%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "94.78%",
     "time": 672,
-    "timeDay": 744,
+    "timeDay": 746,
     "timeWeek": 684,
     "timeMonth": 672,
     "timeYear": 672,
@@ -797,10 +799,10 @@
     "url": "https://postgresql.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
@@ -808,6 +810,8 @@
     "timeWeek": 674,
     "timeMonth": 711,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 1
+    }
   }
 ]
