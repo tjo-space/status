@@ -703,19 +703,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prometheus.monitor.tjo.cloud.ico",
     "slug": "prometheus-monitor-tjo-cloud",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1298,
     "timeDay": 2259,
     "timeWeek": 1331,
     "timeMonth": 1298,
     "timeYear": 1298,
-    "dailyMinutesDown": {
-      "2025-01-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "loki.monitor.tjo.cloud",
@@ -758,19 +756,19 @@
     "url": "https://grpc.otel.monitor.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/grpc.otel.monitor.tjo.cloud.ico",
     "slug": "grpc-otel-monitor-tjo-cloud",
-    "status": "down",
-    "uptime": "94.77%",
-    "uptimeDay": "66.73%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "94.77%",
-    "time": 682,
-    "timeDay": 773,
-    "timeWeek": 695,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "status": "up",
+    "uptime": "94.76%",
+    "uptimeDay": "66.46%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "94.76%",
+    "time": 681,
+    "timeDay": 769,
+    "timeWeek": 694,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-01-24": 125,
+      "2025-01-24": 129,
       "2025-01-23": 415,
       "2025-01-22": 695,
       "2025-01-21": 5
@@ -800,18 +798,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 750,
     "timeDay": 1191,
     "timeWeek": 772,
     "timeMonth": 750,
     "timeYear": 750,
-    "dailyMinutesDown": {
-      "2025-01-24": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
