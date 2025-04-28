@@ -1007,19 +1007,19 @@
     "url": "https://grpc.otel.monitor.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/grpc.otel.monitor.tjo.cloud.ico",
     "slug": "grpc-otel-monitor-tjo-cloud",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "79.93%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "79.89%",
     "uptimeWeek": "90.95%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "96.90%",
+    "uptimeYear": "96.91%",
     "time": 594,
-    "timeDay": 510,
+    "timeDay": 513,
     "timeWeek": 510,
-    "timeMonth": 512,
+    "timeMonth": 511,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-04-28": 289,
+      "2025-04-28": 290,
       "2025-04-27": 194,
       "2025-04-25": 73,
       "2025-04-24": 230,
@@ -1057,7 +1057,7 @@
       "2025-01-29": 80,
       "2025-01-28": 83,
       "2025-01-26": 441,
-      "2025-01-25": 185
+      "2025-01-25": 164
     }
   },
   {
