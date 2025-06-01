@@ -1,7 +1,7 @@
 url: https://monitor.tjo.cloud
-status: down
-code: 502
-responseTime: 660
-lastUpdated: 2025-06-01T08:19:35.910Z
+status: up
+code: 200
+responseTime: 1046
+lastUpdated: 2025-06-01T08:40:29.254Z
 startTime: 2025-01-07T17:38:07.440Z
 generator: Upptime <https://github.com/upptime/upptime>
