@@ -1,7 +1,7 @@
 url: https://yt.tjo.space/feed/trending
-status: up
-code: 200
-responseTime: 1543
-lastUpdated: 2025-06-02T08:20:58.926Z
+status: down
+code: 500
+responseTime: 10415
+lastUpdated: 2025-06-02T08:44:49.371Z
 startTime: 2023-09-12T11:45:34.922Z
 generator: Upptime <https://github.com/upptime/upptime>
