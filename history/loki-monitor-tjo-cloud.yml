@@ -1,7 +1,7 @@
 url: https://loki.monitor.tjo.cloud
-status: down
-code: 502
-responseTime: 490
-lastUpdated: 2025-11-08T03:25:49.691Z
+status: up
+code: 200
+responseTime: 1211
+lastUpdated: 2025-11-08T03:46:44.380Z
 startTime: 2025-01-07T17:38:14.695Z
 generator: Upptime <https://github.com/upptime/upptime>
