@@ -1,7 +1,7 @@
 url: https://http.otel.monitor.tjo.cloud
-status: up
-code: 401
-responseTime: 597
-lastUpdated: 2025-11-13T23:22:15.262Z
+status: down
+code: 502
+responseTime: 483
+lastUpdated: 2025-11-14T06:58:39.127Z
 startTime: 2025-01-07T17:38:16.781Z
 generator: Upptime <https://github.com/upptime/upptime>
