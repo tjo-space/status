@@ -1,7 +1,7 @@
 url: https://proxmox.tjo.cloud
-status: up
-code: 200
-responseTime: 764
-lastUpdated: 2026-01-28T17:45:40.805Z
+status: down
+code: 404
+responseTime: 463
+lastUpdated: 2026-01-28T18:40:52.605Z
 startTime: 2025-01-07T17:38:19.163Z
 generator: Upptime <https://github.com/upptime/upptime>
