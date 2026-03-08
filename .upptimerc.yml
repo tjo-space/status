@@ -13,6 +13,8 @@ sites:
     url: https://media.tjo.space
   - name: cloud.tjo.space
     url: https://cloud.tjo.space/status.php
+  - name: photos.tjo.space
+    url: https://photos.tjo.space/api/server/ping
   - name: chat.tjo.space
     url: https://chat.tjo.space
   - name: matrix.chat.tjo.space
@@ -35,10 +37,6 @@ sites:
   - name: monitor.tjo.cloud
     url: https://monitor.tjo.cloud
     maxRedirects: 10
-  - name: prometheus.monitor.tjo.cloud
-    url: https://prometheus.monitor.tjo.cloud
-  - name: loki.monitor.tjo.cloud
-    url: https://loki.monitor.tjo.cloud
   - name: http.otel.monitor.tjo.cloud
     url: https://http.otel.monitor.tjo.cloud
     expectedStatusCodes:
