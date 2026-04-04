@@ -7,8 +7,6 @@ sites:
     url: https://tjo.space
   - name: search.tjo.space
     url: https://search.tjo.space
-  - name: send.tjo.space
-    url: https://send.tjo.space
   - name: media.tjo.space
     url: https://media.tjo.space
   - name: cloud.tjo.space
@@ -37,14 +35,6 @@ sites:
   - name: monitor.tjo.cloud
     url: https://monitor.tjo.cloud
     maxRedirects: 10
-  - name: http.otel.monitor.tjo.cloud
-    url: https://http.otel.monitor.tjo.cloud
-    expectedStatusCodes:
-      - 401 # Unauthorized
-  - name: grpc.otel.monitor.tjo.cloud
-    url: https://grpc.otel.monitor.tjo.cloud
-    expectedStatusCodes:
-      - 415 # Invalid GRCP request
   - name: proxmox.tjo.cloud
     url: https://proxmox.tjo.cloud
   - name: postgresql.tjo.cloud
