@@ -26,9 +26,7 @@ sites:
   - name: code.tjo.space
     url: https://code.tjo.space
   - name: rss.tjo.space
-    url: https://rss.tjo.space
-    expectedStatusCodes:
-     - 302
+    url: https://rss.tjo.space/api/fever.php
   - name: vault.tjo.space
     url: https://vault.tjo.space
   # TJO.CLOUD
