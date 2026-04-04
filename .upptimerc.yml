@@ -27,6 +27,8 @@ sites:
     url: https://code.tjo.space
   - name: rss.tjo.space
     url: https://rss.tjo.space
+    expectedStatusCodes:
+     - 302
   - name: vault.tjo.space
     url: https://vault.tjo.space
   # TJO.CLOUD
