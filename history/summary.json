@@ -11,9 +11,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "97.75%",
     "time": 1002,
-    "timeDay": 906,
-    "timeWeek": 904,
-    "timeMonth": 931,
+    "timeDay": 885,
+    "timeWeek": 914,
+    "timeMonth": 928,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2026-03-13": 473,
@@ -62,8 +62,7 @@
       "2025-04-24": 37,
       "2025-04-18": 209,
       "2025-04-12": 57,
-      "2025-04-08": 72,
-      "2025-04-07": 20
+      "2025-04-08": 72
     }
   },
   {
@@ -78,9 +77,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.09%",
     "time": 623,
-    "timeDay": 637,
-    "timeWeek": 582,
-    "timeMonth": 589,
+    "timeDay": 496,
+    "timeWeek": 585,
+    "timeMonth": 586,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-03-13": 473,
@@ -116,8 +115,7 @@
       "2025-04-24": 47,
       "2025-04-18": 217,
       "2025-04-12": 56,
-      "2025-04-08": 72,
-      "2025-04-07": 19
+      "2025-04-08": 72
     }
   },
   {
@@ -132,9 +130,9 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.04%",
     "time": 865,
-    "timeDay": 708,
-    "timeWeek": 715,
-    "timeMonth": 737,
+    "timeDay": 524,
+    "timeWeek": 692,
+    "timeMonth": 731,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2026-03-23": 194,
@@ -181,8 +179,7 @@
       "2025-04-21": 17,
       "2025-04-18": 208,
       "2025-04-12": 18,
-      "2025-04-08": 72,
-      "2025-04-07": 17
+      "2025-04-08": 72
     }
   },
   {
@@ -197,9 +194,9 @@
     "uptimeMonth": "98.72%",
     "uptimeYear": "97.89%",
     "time": 809,
-    "timeDay": 654,
-    "timeWeek": 583,
-    "timeMonth": 657,
+    "timeDay": 678,
+    "timeWeek": 592,
+    "timeMonth": 658,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2026-03-22": 42,
@@ -259,8 +256,7 @@
       "2025-04-21": 17,
       "2025-04-18": 215,
       "2025-04-12": 18,
-      "2025-04-08": 160,
-      "2025-04-07": 5
+      "2025-04-08": 160
     }
   },
   {
@@ -269,16 +265,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "94.57%",
-    "time": 543,
-    "timeDay": 507,
-    "timeWeek": 513,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "94.63%",
+    "time": 542,
+    "timeDay": 456,
+    "timeWeek": 512,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2026-03-22": 42,
       "2026-03-21": 164,
@@ -308,9 +304,9 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.39%",
     "time": 505,
-    "timeDay": 497,
+    "timeDay": 473,
     "timeWeek": 476,
-    "timeMonth": 480,
+    "timeMonth": 477,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2026-04-06": 94,
@@ -336,8 +332,7 @@
       "2025-04-24": 45,
       "2025-04-18": 199,
       "2025-04-12": 55,
-      "2025-04-08": 73,
-      "2025-04-07": 16
+      "2025-04-08": 73
     }
   },
   {
@@ -352,9 +347,9 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.38%",
     "time": 520,
-    "timeDay": 623,
-    "timeWeek": 475,
-    "timeMonth": 475,
+    "timeDay": 613,
+    "timeWeek": 477,
+    "timeMonth": 474,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2026-04-06": 94,
@@ -395,9 +390,9 @@
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.42%",
     "time": 518,
-    "timeDay": 432,
+    "timeDay": 405,
     "timeWeek": 453,
-    "timeMonth": 471,
+    "timeMonth": 469,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2026-03-13": 473,
@@ -418,8 +413,7 @@
       "2025-04-24": 44,
       "2025-04-18": 207,
       "2025-04-12": 55,
-      "2025-04-08": 160,
-      "2025-04-07": 15
+      "2025-04-08": 160
     }
   },
   {
@@ -433,11 +427,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1076,
-    "timeDay": 978,
-    "timeWeek": 1113,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "time": 1079,
+    "timeDay": 2291,
+    "timeWeek": 1249,
+    "timeMonth": 1104,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-02-23": 144,
       "2026-01-18": 125,
@@ -448,8 +442,7 @@
       "2025-06-01": 21,
       "2025-05-28": 17,
       "2025-05-16": 22,
-      "2025-04-08": 74,
-      "2025-04-07": 15
+      "2025-04-08": 74
     }
   },
   {
@@ -463,10 +456,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.89%",
     "uptimeYear": "94.58%",
-    "time": 743,
-    "timeDay": 687,
-    "timeWeek": 646,
-    "timeMonth": 651,
+    "time": 738,
+    "timeDay": 520,
+    "timeWeek": 641,
+    "timeMonth": 647,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2026-03-22": 42,
@@ -523,8 +516,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 14
+      "2025-04-08": 1440
     }
   },
   {
@@ -533,16 +525,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.tjo.space.ico",
     "slug": "rss-tjo-space",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.08%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "96.19%",
-    "time": 1268,
-    "timeDay": 566,
+    "time": 1266,
+    "timeDay": 462,
     "timeWeek": 464,
-    "timeMonth": 881,
-    "timeYear": 1251,
+    "timeMonth": 868,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2026-03-08": 1187,
       "2026-03-07": 1424,
@@ -598,8 +590,7 @@
       "2025-04-21": 16,
       "2025-04-18": 207,
       "2025-04-12": 33,
-      "2025-04-08": 75,
-      "2025-04-07": 13
+      "2025-04-08": 75
     }
   },
   {
@@ -614,9 +605,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.67%",
     "time": 623,
-    "timeDay": 609,
-    "timeWeek": 607,
-    "timeMonth": 641,
+    "timeDay": 498,
+    "timeWeek": 597,
+    "timeMonth": 636,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2026-03-13": 264,
@@ -656,8 +647,7 @@
       "2025-04-21": 15,
       "2025-04-18": 207,
       "2025-04-12": 18,
-      "2025-04-08": 75,
-      "2025-04-07": 12
+      "2025-04-08": 75
     }
   },
   {
@@ -672,9 +662,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.82%",
     "time": 364,
-    "timeDay": 293,
-    "timeWeek": 297,
-    "timeMonth": 308,
+    "timeDay": 260,
+    "timeWeek": 298,
+    "timeMonth": 307,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2026-03-13": 146,
@@ -696,16 +686,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.tjo.cloud.ico",
     "slug": "monitor-tjo-cloud",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.45%",
     "time": 1546,
-    "timeDay": 1572,
-    "timeWeek": 1957,
-    "timeMonth": 1910,
-    "timeYear": 1546,
+    "timeDay": 1362,
+    "timeWeek": 1805,
+    "timeMonth": 1896,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2026-03-13": 449,
       "2026-02-25": 38,
@@ -735,8 +725,7 @@
       "2025-04-24": 27,
       "2025-04-18": 214,
       "2025-04-12": 55,
-      "2025-04-08": 76,
-      "2025-04-07": 12
+      "2025-04-08": 76
     }
   },
   {
@@ -745,15 +734,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxmox.tjo.cloud.ico",
     "slug": "proxmox-tjo-cloud",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "94.39%",
     "time": 719,
-    "timeDay": 579,
-    "timeWeek": 552,
-    "timeMonth": 576,
+    "timeDay": 637,
+    "timeWeek": 564,
+    "timeMonth": 577,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-03-27": 42,
@@ -805,8 +794,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 9
+      "2025-04-08": 1440
     }
   },
   {
@@ -815,15 +803,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "69.78%",
+    "uptime": "69.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "63.75%",
     "time": 877,
-    "timeDay": 703,
-    "timeWeek": 649,
-    "timeMonth": 672,
+    "timeDay": 604,
+    "timeWeek": 647,
+    "timeMonth": 668,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2026-03-13": 449,
@@ -1006,9 +994,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 118,
-    "timeDay": 123,
-    "timeWeek": 115,
-    "timeMonth": 117,
+    "timeDay": 93,
+    "timeWeek": 113,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-01-25": 17,
@@ -1028,9 +1016,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 118,
-    "timeDay": 123,
-    "timeWeek": 114,
-    "timeMonth": 117,
+    "timeDay": 93,
+    "timeWeek": 112,
+    "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-01-25": 17,
@@ -1048,8 +1036,7 @@
       "2025-04-24": 27,
       "2025-04-18": 215,
       "2025-04-12": 31,
-      "2025-04-08": 4,
-      "2025-04-07": 12
+      "2025-04-08": 4
     }
   }
 ]
