@@ -35,8 +35,6 @@ sites:
   - name: monitor.tjo.cloud
     url: https://monitor.tjo.cloud
     maxRedirects: 10
-  - name: proxmox.tjo.cloud
-    url: https://proxmox.tjo.cloud
   - name: postgresql.tjo.cloud
     url: https://postgresql.tjo.cloud
   - name: mail.tjo.cloud SMTP
