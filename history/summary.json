@@ -109,13 +109,13 @@
     "url": "https://media.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/media.tjo.space.ico",
     "slug": "media-tjo-space",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.67%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.66%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "98.68%",
-    "time": 868,
+    "time": 883,
     "timeDay": 766,
     "timeWeek": 951,
     "timeMonth": 981,
@@ -164,7 +164,8 @@
       "2026-06-24": 721,
       "2026-06-25": 172,
       "2026-06-27": 155,
-      "2026-06-28": 80
+      "2026-06-28": 80,
+      "2026-07-03": 0
     }
   },
   {
@@ -648,7 +649,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "74.64%",
+    "uptime": "74.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.74%",
