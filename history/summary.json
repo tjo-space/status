@@ -168,17 +168,17 @@
     "url": "https://cloud.tjo.space/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tjo.space.ico",
     "slug": "cloud-tjo-space",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.61%",
     "time": 798,
-    "timeDay": 575,
-    "timeWeek": 639,
-    "timeMonth": 630,
-    "timeYear": 810,
+    "timeDay": 553,
+    "timeWeek": 625,
+    "timeMonth": 627,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-07-19": 24,
       "2025-07-26": 19,
@@ -225,7 +225,7 @@
       "2026-04-18": 43,
       "2026-06-19": 260,
       "2026-06-23": 140,
-      "2026-07-13": 1
+      "2026-07-13": 55
     }
   },
   {
