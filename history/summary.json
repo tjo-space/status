@@ -13,7 +13,7 @@
     "time": 972,
     "timeDay": 1097,
     "timeWeek": 998,
-    "timeMonth": 922,
+    "timeMonth": 928,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2025-07-19": 48,
@@ -70,7 +70,7 @@
     "time": 624,
     "timeDay": 761,
     "timeWeek": 696,
-    "timeMonth": 604,
+    "timeMonth": 609,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-07-19": 47,
@@ -105,16 +105,16 @@
     "url": "https://media.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/media.tjo.space.ico",
     "slug": "media-tjo-space",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.71%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.70%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "98.64%",
     "time": 858,
     "timeDay": 1104,
     "timeWeek": 1009,
-    "timeMonth": 988,
+    "timeMonth": 993,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2025-07-17": 351,
@@ -160,7 +160,8 @@
       "2026-06-28": 80,
       "2026-07-03": 178,
       "2026-07-13": 162,
-      "2026-07-14": 69
+      "2026-07-14": 69,
+      "2026-07-16": 0
     }
   },
   {
@@ -170,14 +171,14 @@
     "slug": "cloud-tjo-space",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "85.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.38%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.57%",
     "time": 813,
-    "timeDay": 3905,
+    "timeDay": 780,
     "timeWeek": 1495,
-    "timeMonth": 872,
+    "timeMonth": 884,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-07-19": 24,
@@ -235,15 +236,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 537,
     "timeDay": 579,
     "timeWeek": 588,
-    "timeMonth": 538,
+    "timeMonth": 542,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2026-03-09": 330,
@@ -277,7 +278,7 @@
     "time": 520,
     "timeDay": 565,
     "timeWeek": 561,
-    "timeMonth": 552,
+    "timeMonth": 551,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2025-07-18": 19,
@@ -311,7 +312,7 @@
     "time": 523,
     "timeDay": 569,
     "timeWeek": 554,
-    "timeMonth": 516,
+    "timeMonth": 519,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-07-18": 19,
@@ -347,7 +348,7 @@
     "time": 509,
     "timeDay": 585,
     "timeWeek": 524,
-    "timeMonth": 502,
+    "timeMonth": 508,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-07-19": 44,
@@ -377,7 +378,7 @@
     "time": 1247,
     "timeDay": 1200,
     "timeWeek": 1401,
-    "timeMonth": 1556,
+    "timeMonth": 1563,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2025-09-19": 45,
@@ -408,7 +409,7 @@
     "time": 715,
     "timeDay": 725,
     "timeWeek": 680,
-    "timeMonth": 629,
+    "timeMonth": 631,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-07-29": 55,
@@ -464,7 +465,7 @@
     "time": 1099,
     "timeDay": 624,
     "timeWeek": 558,
-    "timeMonth": 525,
+    "timeMonth": 524,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-07-19": 15,
@@ -520,7 +521,7 @@
     "time": 608,
     "timeDay": 738,
     "timeWeek": 696,
-    "timeMonth": 628,
+    "timeMonth": 634,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-07-19": 22,
@@ -562,7 +563,7 @@
     "time": 362,
     "timeDay": 351,
     "timeWeek": 331,
-    "timeMonth": 317,
+    "timeMonth": 319,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2025-10-01": 61,
@@ -586,7 +587,7 @@
     "time": 1716,
     "timeDay": 2343,
     "timeWeek": 2439,
-    "timeMonth": 2282,
+    "timeMonth": 2294,
     "timeYear": 1831,
     "dailyMinutesDown": {
       "2025-07-19": 42,
@@ -624,7 +625,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "75.24%",
+    "uptime": "75.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
@@ -632,7 +633,7 @@
     "time": 846,
     "timeDay": 1108,
     "timeWeek": 1037,
-    "timeMonth": 976,
+    "timeMonth": 984,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-07-17": 250,
@@ -803,7 +804,7 @@
     "time": 120,
     "timeDay": 155,
     "timeWeek": 140,
-    "timeMonth": 128,
+    "timeMonth": 129,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-11-20": 28,
@@ -828,7 +829,7 @@
     "time": 119,
     "timeDay": 153,
     "timeWeek": 139,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-11-20": 28,
