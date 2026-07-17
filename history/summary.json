@@ -168,16 +168,16 @@
     "url": "https://cloud.tjo.space/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tjo.space.ico",
     "slug": "cloud-tjo-space",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.38%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "97.37%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.57%",
     "time": 812,
-    "timeDay": 650,
-    "timeWeek": 1482,
-    "timeMonth": 882,
+    "timeDay": 592,
+    "timeWeek": 1403,
+    "timeMonth": 874,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-07-19": 24,
@@ -226,7 +226,8 @@
       "2026-06-19": 260,
       "2026-06-23": 140,
       "2026-07-13": 55,
-      "2026-07-15": 209
+      "2026-07-15": 209,
+      "2026-07-17": 1
     }
   },
   {
@@ -627,7 +628,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "75.29%",
+    "uptime": "75.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
