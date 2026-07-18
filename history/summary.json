@@ -367,16 +367,16 @@
     "url": "https://id.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/id.tjo.space.ico",
     "slug": "id-tjo-space",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "80.66%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "75.50%",
+    "uptimeWeek": "94.94%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.60%",
     "time": 1254,
-    "timeDay": 7571,
-    "timeWeek": 3106,
-    "timeMonth": 1909,
+    "timeDay": 1450,
+    "timeWeek": 2947,
+    "timeMonth": 1891,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-09-19": 45,
@@ -392,7 +392,7 @@
       "2026-06-29": 322,
       "2026-07-15": 66,
       "2026-07-17": 278,
-      "2026-07-18": 1
+      "2026-07-18": 167
     }
   },
   {
@@ -578,17 +578,17 @@
     "url": "https://monitor.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.tjo.cloud.ico",
     "slug": "monitor-tjo-cloud",
-    "status": "down",
-    "uptime": "98.39%",
-    "uptimeDay": "80.73%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "99.12%",
-    "time": 1746,
-    "timeDay": 5662,
-    "timeWeek": 3091,
-    "timeMonth": 2527,
-    "timeYear": 1859,
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "75.53%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "94.85%",
+    "uptimeYear": "99.09%",
+    "time": 1748,
+    "timeDay": 2276,
+    "timeWeek": 3020,
+    "timeMonth": 2516,
+    "timeYear": 1860,
     "dailyMinutesDown": {
       "2025-07-19": 42,
       "2025-08-11": 93,
@@ -619,7 +619,7 @@
       "2026-07-15": 65,
       "2026-07-16": 63,
       "2026-07-17": 277,
-      "2026-07-18": 1
+      "2026-07-18": 166
     }
   },
   {
