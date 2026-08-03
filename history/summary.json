@@ -105,13 +105,13 @@
     "url": "https://media.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/media.tjo.space.ico",
     "slug": "media-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "98.69%",
-    "time": 847,
+    "time": 848,
     "timeDay": 1055,
     "timeWeek": 1067,
     "timeMonth": 1001,
@@ -159,7 +159,8 @@
       "2026-07-13": 162,
       "2026-07-14": 69,
       "2026-07-16": 68,
-      "2026-08-01": 99
+      "2026-08-01": 99,
+      "2026-08-03": 1
     }
   },
   {
@@ -168,11 +169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tjo.space.ico",
     "slug": "cloud-tjo-space",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.52%",
+    "uptime": "99.35%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.51%",
     "time": 812,
     "timeDay": 548,
     "timeWeek": 636,
@@ -225,7 +226,7 @@
       "2026-07-17": 67,
       "2026-07-18": 111,
       "2026-08-01": 214,
-      "2026-08-03": 1
+      "2026-08-03": 89
     }
   },
   {
@@ -233,17 +234,17 @@
     "url": "https://photos.tjo.space/api/server/ping",
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
-    "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "98.77%",
-    "time": 541,
-    "timeDay": 537,
-    "timeWeek": 591,
-    "timeMonth": 565,
-    "timeYear": 541,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "98.73%",
+    "time": 543,
+    "timeDay": 685,
+    "timeWeek": 630,
+    "timeMonth": 577,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2026-03-09": 330,
       "2026-03-10": 135,
@@ -261,7 +262,7 @@
       "2026-03-22": 42,
       "2026-06-23": 140,
       "2026-08-01": 214,
-      "2026-08-03": 1
+      "2026-08-03": 88
     }
   },
   {
@@ -458,17 +459,17 @@
     "url": "https://rss.tjo.space/api/fever.php",
     "icon": "https://icons.duckduckgo.com/ip3/rss.tjo.space.ico",
     "slug": "rss-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "97.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "96.69%",
-    "time": 1073,
-    "timeDay": 563,
-    "timeWeek": 536,
-    "timeMonth": 528,
-    "timeYear": 1030,
+    "time": 1071,
+    "timeDay": 512,
+    "timeWeek": 527,
+    "timeMonth": 526,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-08-04": 38,
       "2025-08-09": 176,
@@ -505,7 +506,8 @@
       "2026-02-28": 1440,
       "2026-02-27": 499,
       "2026-03-08": 1187,
-      "2026-08-01": 212
+      "2026-08-01": 212,
+      "2026-08-03": 1
     }
   },
   {
@@ -628,17 +630,17 @@
     "url": "https://postgresql.tjo.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "76.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.90%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "65.22%",
-    "time": 854,
-    "timeDay": 1086,
-    "timeWeek": 1050,
-    "timeMonth": 997,
-    "timeYear": 843,
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "65.23%",
+    "time": 853,
+    "timeDay": 781,
+    "timeWeek": 986,
+    "timeMonth": 981,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2025-12-02": 1175,
       "2025-12-01": 1440,
@@ -784,7 +786,8 @@
       "2026-02-28": 126,
       "2026-03-13": 449,
       "2026-06-29": 112,
-      "2026-08-01": 212
+      "2026-08-01": 212,
+      "2026-08-03": 1
     }
   },
   {
