@@ -1,7 +1,7 @@
 url: https://photos.tjo.space/api/server/ping
-status: down
-code: 503
-responseTime: 485
-lastUpdated: 2026-08-24T19:52:41.342Z
+status: up
+code: 200
+responseTime: 678
+lastUpdated: 2026-08-24T20:12:53.527Z
 startTime: 2026-03-08T20:35:52.592Z
 generator: Upptime <https://github.com/upptime/upptime>
