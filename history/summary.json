@@ -227,17 +227,17 @@
     "url": "https://photos.tjo.space/api/server/ping",
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "98.90%",
-    "time": 544,
-    "timeDay": 468,
-    "timeWeek": 592,
-    "timeMonth": 576,
-    "timeYear": 544,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "98.89%",
+    "time": 545,
+    "timeDay": 567,
+    "timeWeek": 599,
+    "timeMonth": 578,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2026-03-09": 330,
       "2026-03-10": 135,
@@ -257,7 +257,7 @@
       "2026-08-01": 214,
       "2026-08-03": 88,
       "2026-08-24": 20,
-      "2026-08-27": 1
+      "2026-08-27": 12
     }
   },
   {
