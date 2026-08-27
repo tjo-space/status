@@ -228,11 +228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "98.90%",
     "time": 545,
     "timeDay": 567,
     "timeWeek": 599,
@@ -256,8 +256,7 @@
       "2026-06-23": 140,
       "2026-08-01": 214,
       "2026-08-03": 88,
-      "2026-08-24": 20,
-      "2026-08-27": 12
+      "2026-08-24": 20
     }
   },
   {
@@ -622,7 +621,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "71.61%",
+    "uptimeYear": "71.62%",
     "time": 867,
     "timeDay": 1028,
     "timeWeek": 1034,
