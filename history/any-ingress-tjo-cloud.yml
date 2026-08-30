@@ -1,7 +1,7 @@
 url: http://any.ingress.tjo.cloud:1337/healthz
 status: up
 code: 200
-responseTime: 347
-lastUpdated: 2026-08-29T04:03:58.152Z
+responseTime: 242
+lastUpdated: 2026-08-30T01:09:27.607Z
 startTime: 2025-01-07T17:38:06.651Z
 generator: Upptime <https://github.com/upptime/upptime>
