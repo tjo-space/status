@@ -4,10 +4,10 @@
     "url": "https://tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/tjo.space.ico",
     "slug": "tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.12%",
     "time": 981,
@@ -47,7 +47,8 @@
       "2026-03-13": 473,
       "2026-07-26": 60,
       "2026-08-01": 214,
-      "2026-08-22": 17
+      "2026-08-22": 17,
+      "2026-09-17": 2
     }
   },
   {
@@ -55,10 +56,10 @@
     "url": "https://search.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/search.tjo.space.ico",
     "slug": "search-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.27%",
     "time": 615,
@@ -92,7 +93,8 @@
       "2026-03-13": 473,
       "2026-08-01": 214,
       "2026-08-22": 17,
-      "2026-08-24": 21
+      "2026-08-24": 21,
+      "2026-09-17": 2
     }
   },
   {
@@ -100,13 +102,13 @@
     "url": "https://media.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/media.tjo.space.ico",
     "slug": "media-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
-    "time": 859,
+    "time": 850,
     "timeDay": 950,
     "timeWeek": 1072,
     "timeMonth": 1000,
@@ -147,7 +149,8 @@
       "2026-07-14": 69,
       "2026-07-16": 68,
       "2026-08-01": 99,
-      "2026-08-03": 67
+      "2026-08-03": 67,
+      "2026-09-17": 2
     }
   },
   {
@@ -155,10 +158,10 @@
     "url": "https://cloud.tjo.space/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tjo.space.ico",
     "slug": "cloud-tjo-space",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
     "time": 802,
@@ -207,7 +210,8 @@
       "2026-07-17": 67,
       "2026-07-18": 111,
       "2026-08-01": 214,
-      "2026-08-03": 155
+      "2026-08-03": 155,
+      "2026-09-17": 2
     }
   },
   {
@@ -215,10 +219,10 @@
     "url": "https://photos.tjo.space/api/server/ping",
     "icon": "https://icons.duckduckgo.com/ip3/photos.tjo.space.ico",
     "slug": "photos-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.02%",
     "time": 542,
@@ -244,7 +248,8 @@
       "2026-06-23": 140,
       "2026-08-01": 214,
       "2026-08-03": 88,
-      "2026-08-24": 20
+      "2026-08-24": 20,
+      "2026-09-17": 2
     }
   },
   {
@@ -252,10 +257,10 @@
     "url": "https://chat.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/chat.tjo.space.ico",
     "slug": "chat-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
     "time": 521,
@@ -276,7 +281,8 @@
       "2026-03-13": 473,
       "2026-04-06": 94,
       "2026-08-01": 213,
-      "2026-08-22": 17
+      "2026-08-22": 17,
+      "2026-09-17": 1
     }
   },
   {
@@ -284,10 +290,10 @@
     "url": "https://matrix.chat.tjo.space/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.chat.tjo.space.ico",
     "slug": "matrix-chat-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 531,
@@ -310,7 +316,8 @@
       "2026-04-06": 94,
       "2026-05-02": 703,
       "2026-06-23": 139,
-      "2026-08-01": 213
+      "2026-08-01": 213,
+      "2026-09-17": 1
     }
   },
   {
@@ -318,13 +325,13 @@
     "url": "https://webhook.chat.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/webhook.chat.tjo.space.ico",
     "slug": "webhook-chat-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 523,
+    "time": 515,
     "timeDay": 730,
     "timeWeek": 604,
     "timeMonth": 613,
@@ -339,7 +346,8 @@
       "2026-01-28": 673,
       "2026-02-22": 46,
       "2026-03-13": 473,
-      "2026-08-01": 213
+      "2026-08-01": 213,
+      "2026-09-17": 1
     }
   },
   {
@@ -384,10 +392,10 @@
     "url": "https://code.tjo.space",
     "icon": "https://icons.duckduckgo.com/ip3/code.tjo.space.ico",
     "slug": "code-tjo-space",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.67%",
     "time": 709,
@@ -427,7 +435,8 @@
       "2026-03-22": 42,
       "2026-04-08": 41,
       "2026-06-23": 139,
-      "2026-08-01": 99
+      "2026-08-01": 99,
+      "2026-09-17": 1
     }
   },
   {
@@ -598,11 +607,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/postgresql.tjo.cloud.ico",
     "slug": "postgresql-tjo-cloud",
     "status": "up",
-    "uptime": "77.73%",
+    "uptime": "77.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "77.34%",
+    "uptimeYear": "77.43%",
     "time": 875,
     "timeDay": 1170,
     "timeWeek": 1112,
