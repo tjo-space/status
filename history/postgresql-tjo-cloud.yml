@@ -1,7 +1,7 @@
 url: https://postgresql.tjo.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-09-27T01:16:04.068Z
+status: up
+code: 200
+responseTime: 892
+lastUpdated: 2026-09-27T05:53:42.833Z
 startTime: 2025-01-07T17:38:20.271Z
 generator: Upptime <https://github.com/upptime/upptime>
